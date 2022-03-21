@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Location component matches snapshot 1`] = `
+<div>
+  <li>
+    <p>
+      Cancun
+    </p>
+    <p>
+      -86.840317
+    </p>
+  </li>
+</div>
+`;
